@@ -1,0 +1,12 @@
+3
+Main part of this game is upgrading your armor and weapons
+this will be simple quest
+upgrade any item at least 5 times
+Upgrade any item at least 5 times
+0
+0
+5 -1 5 23
+Upgrade
+2
+82 5 0 0
+86 25 0 0

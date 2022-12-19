@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MMO</string>
+    <string name="World">assets//World.txt</string>
+    <string name="preferences_file_key">com.example.MMO.PREFERENCE_FILE_KEY</string>
+</resources>

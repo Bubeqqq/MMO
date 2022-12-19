@@ -1,0 +1,7 @@
+0
+Find and talk to tutorial npc
+1
+0
+4 0 1 45
+Find
+0

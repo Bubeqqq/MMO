@@ -1,0 +1,15 @@
+4
+Other important thing in this game is transformation
+Using blue book item called "Transform Book" you are able to make your weapons and armors stronger
+Only +10 items can be transformed, and after transformation item return to +1
+Special bonuses that player added stay
+Transform any item Transform any item Transform any item Transform any item Transform any item Transform any item Transform any item
+0
+0
+6 -1 1 63
+Transform
+1
+63 1 8 3
+0 25
+0 20
+2 10

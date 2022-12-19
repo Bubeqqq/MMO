@@ -1,0 +1,6 @@
+blacksmith
+12 44
+quest
+14 42
+npc
+24 36 0
